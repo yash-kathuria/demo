@@ -34,7 +34,7 @@ this is repository is representation of clowning
         var name=window.prompt("Enter the name of the person");
         var age=window.prompt("Enter the age of the person");
         var color=window.prompt("Enter the color of car's that person have");
-        let person1=new car(name,age,color);
+        let person1=new car(name,no,color);
         person1.printName();
         person1.printAge();
         person1.printColor();
